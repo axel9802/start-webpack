@@ -1,0 +1,1 @@
+console.log('Hola sin configuracion webpack');
